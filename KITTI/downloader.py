@@ -1,3 +1,10 @@
+############################################
+# Download KITTI Dataset From 
+# "https://s3.eu-central-1.amazonaws.com/avg-kitti/"
+# 
+# You Have to Know ".zip" name. Enter above URL
+############################################
+
 from __future__ import print_function
 
 import argparse
